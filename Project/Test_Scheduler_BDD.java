@@ -1,4 +1,4 @@
-package hw3;
+package Project;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
